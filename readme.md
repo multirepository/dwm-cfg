@@ -16,7 +16,7 @@ Patches:
 Build dependencies:
 ```build-essential libx11-dev libxft-dev libxinerama-dev make xinit xserver-xorg```
 
-Configuration Dependencies:
+Configuration dependencies:
 1. ```alacritty```
 2. ```dbus-x11```
 3. ```feh```
