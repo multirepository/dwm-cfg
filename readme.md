@@ -1,7 +1,5 @@
-<img width="1920" height="1080" alt="image-1" src="https://github.com/user-attachments/assets/3b223553-111d-438b-942f-2b77cdf30745" />
-
-<img width="1920" height="1080" alt="image-2" src="https://github.com/user-attachments/assets/24ec6a0b-0563-48ca-b767-939488e6b78b" />
-
+<img width="1920" height="1080" alt="image1" src="https://github.com/user-attachments/assets/10e78835-cf2a-4f35-845a-a71190ed668e" />
+<img width="1920" height="1080" alt="image2" src="https://github.com/user-attachments/assets/6b525c2b-1ca5-408f-afcf-17d047296a53" />
 
 dwm configuration by multirepository
 
