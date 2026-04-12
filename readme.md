@@ -22,9 +22,8 @@ Configuration Dependencies:
 3. ```feh```
 4. ```flameshot```
 5. ```font-awesome```
-6. ```qt5ct```
-7. ```xdg-desktop-portal```
-8. ```xdg-desktop-portal-gtk```
+6. ```xdg-desktop-portal```
+7. ```xdg-desktop-portal-gtk```
 
 Build:
 1. ```cd ~ && git clone https://github.com/multirepository/dwm-cfg```
