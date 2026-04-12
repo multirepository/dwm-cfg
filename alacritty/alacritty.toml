@@ -1,7 +1,0 @@
-[font]
-size = 14.0
-
-[general]
-import = [
-    "~/.config/alacritty/themes/themes/catppuccin_mocha.toml"
-]
