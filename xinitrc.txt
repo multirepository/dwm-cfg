@@ -1,0 +1,7 @@
+export QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment --systemd DISPLAY XAUTHORITY &
+/usr/lib/xdg-desktop-portal &
+/usr/lib/xdg-desktop-portal-gtk &
+setxkbmap us,ru -option grp:alt_shift_toggle &
+xset m 0 0 &
+exec dwm
