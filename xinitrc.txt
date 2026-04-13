@@ -1,6 +1,3 @@
-dbus-update-activation-environment --systemd DISPLAY XAUTHORITY &
-/usr/lib/xdg-desktop-portal &
-/usr/lib/xdg-desktop-portal-gtk &
 setxkbmap us,ru -option grp:alt_shift_toggle &
 xset m 0 0 &
-exec dwm
+exec dbus-launch --sh-syntax --exit-with-session dwm
