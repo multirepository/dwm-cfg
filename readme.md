@@ -30,4 +30,4 @@ cd ~ && git clone https://github.com/multirepository/dwm-cfg
 cd ~/dwm-cfg/ && chmod +x build.sh && ./build.sh
 ```
 
-NOT FINAL VERSION!
+Not final version!
