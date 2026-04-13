@@ -23,11 +23,11 @@ Configuration dependencies:
 5. ```font-awesome```
 
 Build:
-1. ```
-   cd ~ && git clone https://github.com/multirepository/dwm-cfg
-   ```
-2. ```
-   cd ~/dwm-cfg/ && chmod +x build.sh && ./build.sh
-   ```
+```
+cd ~ && git clone https://github.com/multirepository/dwm-cfg
+```
+```
+cd ~/dwm-cfg/ && chmod +x build.sh && ./build.sh
+```
 
 NOT FINAL VERSION!
